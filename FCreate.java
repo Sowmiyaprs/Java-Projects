@@ -1,7 +1,7 @@
 import java.io.File;
 import java.io.IOException;
 
-public class Filecreate {
+public class FCreate {
     public static void main(String[] args) {
         File newFile=new File("sample.txt");
         try {
@@ -14,6 +14,10 @@ public class Filecreate {
         catch (IOException i){
             System.out.println("Error");
         }                                           //the file sample.txt as been created
-                                                    //the next process will be in the next file
+                                                    //the next process will be in the next 
     }
 }
+
+
+
+
