@@ -11,6 +11,7 @@ public class arrayloop1 {
         System.out.println(a[7]);
         System.out.println(a[8]);
         System.out.println(a[9]);
-
+                    
+         //in this just printing array alone here we didn't use the loop 
     }
 }
